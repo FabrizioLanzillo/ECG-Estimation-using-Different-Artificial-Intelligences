@@ -1,4 +1,4 @@
-# Intelligent Systems Project
+# ECG-Estimation-using-Different-Artificial-Intelligences
 University project for the *Intelligent Systems* course (MSc Computer Engineering) by Fabrizio Lanzillo, Federico Montini e Riccardo Sagramoni.
 
 Design and implementation of several **artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals.
